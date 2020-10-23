@@ -22,7 +22,7 @@ Detail is added to user stories in two main ways:
 - Stories drive creative solutions. Stories encourage the team to think critically and creatively about how to best solve for an end goal.
 - Stories create momentum. With each passing story the development team enjoys a small challenges and a small win, driving momentum. 
 
-( https://www.atlassian.com/agile/project-management/user-stories)
+Source: (https://www.atlassian.com/agile/project-management/user-stories)
 
 ## How Do Epic and User Stories Fit With Agile and Scrum
 ### Epic Stories (Agile)
