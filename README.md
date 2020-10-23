@@ -1,1 +1,1 @@
-# epic_and_user_stroies
+# epic_and_user_stories
