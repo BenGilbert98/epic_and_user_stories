@@ -28,6 +28,11 @@ Detail is added to user stories in two main ways:
 ### Epic Stories (Agile)
 - An agile epic is a body of work that can be broken down into specific tasks (called user stories) based on the needs/requests of customers or end users. 
 
-
 ### Epic Stories (SCRUM)
 - In the context of a SCRUM, an epic is a user story which is too big to fit in one sprint
+
+### User Stories (Agile)
+- In agile, user stories allow for the software development team to put the users story and feedback at the centre of the conversation which will allow the team to know what to change in the development cycle.
+
+### User Stories (SCRUM)
+- In SCRUM, user stories are added within sprints are periodically resolves over the sprint.
